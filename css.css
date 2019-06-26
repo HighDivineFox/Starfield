@@ -1,12 +1,25 @@
+canvas{
+    border: 1px solid black;
+    margin: 10px;
+}
+
+body{
+    margin : 0;
+    font-family: 'Arial', Courier, monospace;
+}
+
 h1{
     display: block;
-            font-family: 'Arial', Courier, monospace;
-            color: white;
-            text-align: center;
-            padding: 14px 16px;
-            margin-bottom: 0px;
-            text-decoration: none;
-            background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    margin-bottom: 0px;
+    text-decoration: none;
+    background-color: #333;
+}
+
+h2{
+    margin: 10px;
 }
 
 .review{
